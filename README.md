@@ -127,4 +127,7 @@ sentinel/
 | LLM context window overflow | Sentence-boundary chunking + tiktoken budget; trim lowest-ranked chunks first |
 
 ---
-
+**Jiratchot Imman**
+**Faculty of Engineering**
+**Chulalongkorn University**
+---
